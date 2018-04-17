@@ -29,7 +29,7 @@ const users = [
   {
     caption: 'Rush',
     image: '/img/users/rush.svg',
-    infoLink: 'https://rushjs.io/',
+    infoLink: 'http://rushjs.io/',
     pinned: true,
   },
 ];
